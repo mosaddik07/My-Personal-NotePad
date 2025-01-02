@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Patrick+Hand&display=swap');
 
 html {
   font-size: 10px;
@@ -7,7 +6,7 @@ html {
 
 body {
   background: #ffc600;
-  font-family: "Patrick Hand", serif;
+  font-family: "Edu AU VIC WA NT Hand", serif;
   font-weight: 200;
   font-size: 20px;
 }
